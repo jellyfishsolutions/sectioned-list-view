@@ -1,0 +1,21 @@
+name: sectioned_list_view
+description: Sectioned list view with a similar API to the iOS UITableView
+version: 0.0.1
+author: Luca Roverelli @ Jellyfish Solutions
+homepage: https://github.com/jellyfishsolutions/sectioned-list-view
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_widgets: ^0.1.7+1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+    
+flutter:
+
+
