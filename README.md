@@ -10,7 +10,7 @@ For each section, you should provide an `headerBuilder` function.
 Finally, you should also provide an `itemBuilder` function, executed for each item.
 
 ```
-SectionListView(
+SectionedListView(
     numberOfSection: () => this.numberOfSection(),
     numberOfRowsInSection: (int section) =>
         this.numberOfRowsInSection(section),
